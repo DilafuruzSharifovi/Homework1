@@ -18,7 +18,7 @@ I am from **Georgia**.
 
 **Question 2** With Markdown write a sentence that has one word in italic.
 
-Write Your Answer Here!
+I planned to go to the _cinema_ tomorrow.
 
 **Question 3** With Markdown write a sentence that has one word in italic bold.
 
