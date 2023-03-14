@@ -1,6 +1,7 @@
 ---
 title: "Homework 1"
-author: "Write Your Name and Student ID Here!"
+author: "Dilafuruz Sharifovi 20080946"
+data: "2023-03-14"
 ---
 
 ```{r global_options, include=FALSE}
