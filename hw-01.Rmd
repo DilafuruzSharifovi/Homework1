@@ -22,7 +22,7 @@ I planned to go to the _cinema_ tomorrow.
 
 **Question 3** With Markdown write a sentence that has one word in italic bold.
 
-Write Your Answer Here!
+People's way of looking at life is **_different_**.
 
 **Question 4** With Markdown write an unordered list with three items.
 
